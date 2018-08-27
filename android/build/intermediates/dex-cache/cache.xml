@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Arkademy\CloneIG\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="E:\Arkademy\CloneIG\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_ea3c14461d5b263e314750c93bce24bc1efb31c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ALDI RAGIL\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="E:\Arkademy\CloneIG\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_53a6c54e8eae5ecc02f107a606e688d14fbdb9d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ALDI RAGIL\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="E:\Arkademy\CloneIG\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_426129227c1d1f5ea52a0aa812a6b1e5736292fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Arkademy\CloneIG\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="E:\Arkademy\CloneIG\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_bcb9cb8660c4e620658f4344b93248c840d21ff3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ALDI RAGIL\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="E:\Arkademy\CloneIG\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_6975124372fbdb3a3a636696e281ff4bf1703196.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Arkademy\CloneIG\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="E:\Arkademy\CloneIG\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_4b4a57bfd098ab1ae3e219432df9ea09e53eb0de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Arkademy\CloneIG\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="E:\Arkademy\CloneIG\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_c8b9805233ff6fadb7dddb9680e19669a478d90d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Arkademy\CloneIG\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="E:\Arkademy\CloneIG\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_7a9cbb19096e692542707d3d306b98517bc116f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ALDI RAGIL\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="E:\Arkademy\CloneIG\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_68d193acca8d1b3b004d51a2d9a9844295bd2613.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ALDI RAGIL\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="E:\Arkademy\CloneIG\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_f5bbfaecc0f03ad492da9fa5774406d89844aa14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Arkademy\CloneIG\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="E:\Arkademy\CloneIG\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_3cfb5c8e7dcefd544fbc2c395eb3ad058e6f3a4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ALDI RAGIL\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="E:\Arkademy\CloneIG\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_54cc71205515c67ef0fd0e0bbc4c8265fc899289.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Arkademy\CloneIG\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="E:\Arkademy\CloneIG\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.4_fb77f968e05ec0146366ce669cdb1304b886f1c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Arkademy\CloneIG\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="E:\Arkademy\CloneIG\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_deebd6b5597199368d36d146a7b0575ad623180e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Arkademy\CloneIG\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="E:\Arkademy\CloneIG\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_69922f46cb0b24b70335ddba02477502f4502dd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Arkademy\CloneIG\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="E:\Arkademy\CloneIG\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_c1bc109d4274ec3f02ac186de23f133958d20147.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Arkademy\CloneIG\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="E:\Arkademy\CloneIG\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_1509bf42efee31f042956a5a50eac8bb278a4f65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Arkademy\CloneIG\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="E:\Arkademy\CloneIG\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_9f581aa55c55c7299b18d516ae5e21c4aa54b4f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ALDI RAGIL\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="E:\Arkademy\CloneIG\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_f49918b8ae341d16f17d50b3d0c9de1fd009cc31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Arkademy\CloneIG\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\Arkademy\CloneIG\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_a544d422e709ac68a58dcb48c929991d2607fca7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ALDI RAGIL\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="E:\Arkademy\CloneIG\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_573b11ac0c719a14d03d3ebf07c1c1aab3e9def9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Arkademy\CloneIG\android\app\build\intermediates\exploded-aar\CloneIG\react-native-vector-icons\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="E:\Arkademy\CloneIG\android\app\build\intermediates\pre-dexed\debug\CloneIG-react-native-vector-icons-unspecified_f3e93d754777250a9394843108b07e44e3630ffb.jar" />
+    </item>
+
+</items>
